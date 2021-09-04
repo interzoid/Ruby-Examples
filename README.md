@@ -4,7 +4,7 @@ These are code examples showing how to call and utilize Interzoid's various Clou
 Install the http library to be able to run the code:
 
 ```
-gem install http
+$ gem install http
 ```
 
 **GetCompanyMatchSimkey.rb** - generates a similarity key to use to match/locate other similar company names ("IBM" & "International Business Machines", etc.) - visit the API Page: https://www.interzoid.com/services/getcompanymatchadvanced  
