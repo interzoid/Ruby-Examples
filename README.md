@@ -1,6 +1,8 @@
 # Ruby-Examples
 These are code examples showing how to call and utilize Interzoid's various Cloud APIs using Ruby. Interzoid's APIs provide real-time data in several categories for integration into Web sites, applications, and business processes. There are also data matching and data validation APIs that can significantly improve the value of your data assets.
 
+To see this API in action via a Web application that quickly generates inconsistent/duplicate data reports while connected to major Cloud data platforms, visit here: https://connect.interzoid.com
+
 Install the http library to be able to run the code:
 
 ```
